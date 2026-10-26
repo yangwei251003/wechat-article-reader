@@ -1,0 +1,13 @@
+{
+  "url": "https://mp.weixin.qq.com/s/synthetic-offline-fixture",
+  "attempts": [
+    {
+      "backend": "local",
+      "result": {
+        "success": true,
+        "title": "Synthetic transport demo",
+        "content": "This is original synthetic text used only to exercise the local MCP client transport. It is not a real WeChat article, and the received URL is never opened. This is original synthetic text used only to exercise the local MCP client transport. It is not a real WeChat article, and the received URL is never opened. This is original synthetic text used only to exercise the local MCP client transport. It is not a real WeChat article, and the received URL is never opened. "
+      }
+    }
+  ]
+}
